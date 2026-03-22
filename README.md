@@ -83,7 +83,8 @@ Output: ✅ REAL
 
 
 \---
-
+## 📸 Output Screenshot
+![Output](Screenshot 2026-03-22 181901.png)
 
 
 
